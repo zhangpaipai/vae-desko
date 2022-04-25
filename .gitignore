@@ -1,0 +1,8 @@
+# 忽略 .idea/ 文件夹下的所有文件
+.idea/
+__pycache__/
+construction_image/
+dataset/
+dataset_test/
+log/
+tensorboard/
